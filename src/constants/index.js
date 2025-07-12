@@ -172,7 +172,7 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Harshit proved me wrong.",
-    name: "MD Mustaqeem",
+    name: "Rudraksh Gupta",
     designation: "Ecommerce",
     company: "QuickMart",
     image: firstTestimonial,
@@ -180,7 +180,7 @@ const testimonials = [
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Harshit does.",
-    name: "Abdul Raheman",
+    name: "Devanshu Raj",
     designation: "Ecommerce Business",
     company: "justbuyz",
     image: secondTestimonial,
